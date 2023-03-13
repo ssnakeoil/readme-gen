@@ -1,0 +1,19 @@
+{
+  "name": "readme-gen",
+  "version": "1.0.0",
+  "description": "README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssnakeoil/readme-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/ssnakeoil/readme-gen#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
